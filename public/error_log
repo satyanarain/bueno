@@ -1,0 +1,83 @@
+[31-Aug-2016 17:04:40 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/ennerzyy/public_html/bueno/public/index.php on line 50
+[02-Sep-2016 13:02:17 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/ennerzyy/public_html/bueno/public/index.php on line 50
+[05-Sep-2016 06:45:09 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/ennerzyy/public_html/bueno/public/index.php on line 50
+[05-Sep-2016 07:13:44 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/ennerzyy/public_html/bueno/public/index.php on line 50
+[05-Sep-2016 14:54:35 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/ennerzyy/public_html/bueno/public/index.php on line 50
+[05-Sep-2016 14:56:57 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/ennerzyy/public_html/bueno/public/index.php on line 50
+[05-Sep-2016 15:43:58 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/ennerzyy/public_html/bueno/public/index.php on line 50
+[06-Sep-2016 10:54:10 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/ennerzyy/public_html/bueno/public/index.php on line 50
+[06-Sep-2016 13:22:42 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/ennerzyy/public_html/bueno/public/index.php on line 50
+[07-Sep-2016 02:41:56 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/ennerzyy/public_html/bueno/public/index.php on line 50
+[07-Sep-2016 13:16:00 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/ennerzyy/public_html/bueno/public/index.php on line 50
+[08-Sep-2016 03:52:27 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/ennerzyy/public_html/bueno/public/index.php on line 50
+[08-Sep-2016 16:35:53 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/ennerzyy/public_html/bueno/public/index.php on line 50
+[09-Sep-2016 06:41:06 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/ennerzyy/public_html/bueno/public/index.php on line 50
+[10-Sep-2016 07:55:10 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/ennerzyy/public_html/bueno/public/index.php on line 50
+[12-Sep-2016 03:34:10 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/ennerzyy/public_html/bueno/public/index.php on line 50
+[13-Sep-2016 04:34:47 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/ennerzyy/public_html/bueno/public/index.php on line 50
+[26-Sep-2016 01:45:09 Asia/Kolkata] PHP Fatal error:  Call to a member function update() on null in /home/ennerzyy/public_html/bueno/app/Bueno/Repositories/DbUserRepository.php on line 1217
+[26-Sep-2016 01:45:09 Asia/Kolkata] PHP Fatal error:  Call to a member function update() on null in /home/ennerzyy/public_html/bueno/app/Bueno/Repositories/DbUserRepository.php on line 1217
+[26-Sep-2016 01:45:11 Asia/Kolkata] PHP Fatal error:  Call to a member function update() on null in /home/ennerzyy/public_html/bueno/app/Bueno/Repositories/DbUserRepository.php on line 1217
+[26-Sep-2016 01:45:12 Asia/Kolkata] PHP Fatal error:  Call to a member function update() on null in /home/ennerzyy/public_html/bueno/app/Bueno/Repositories/DbUserRepository.php on line 1217
+[26-Sep-2016 01:45:13 Asia/Kolkata] PHP Fatal error:  Call to a member function update() on null in /home/ennerzyy/public_html/bueno/app/Bueno/Repositories/DbUserRepository.php on line 1217
+[26-Sep-2016 01:45:16 Asia/Kolkata] PHP Fatal error:  Call to a member function update() on null in /home/ennerzyy/public_html/bueno/app/Bueno/Repositories/DbUserRepository.php on line 1217
+[26-Sep-2016 01:54:07 Asia/Kolkata] PHP Fatal error:  Call to a member function update() on null in /home/ennerzyy/public_html/bueno/app/Bueno/Repositories/DbUserRepository.php on line 1217
+[15-Oct-2016 09:16:22 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/ennerzyy/public_html/bueno/storage/framework/views/6062b994d600c8528125187dfbb32b69 on line 145
+[17-Oct-2016 10:32:38 Asia/Kolkata] PHP Fatal error:  Call to undefined method Bueno\Billing\Providers\COD::buildChecksumAPI() in /home/ennerzyy/public_html/bueno/app/Http/Controllers/OldApi/ApiController.php on line 623
+[19-Oct-2016 00:20:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'file_put_contents' (T_STRING) in /home/ennerzyy/public_html/bueno/app/Http/routes.php on line 23
+[19-Oct-2016 01:14:30 Asia/Kolkata] PHP Fatal error:  Call to a member function except() on null in /home/ennerzyy/public_html/bueno/app/Http/Controllers/CheckoutController.php on line 55
+[19-Oct-2016 01:16:42 Asia/Kolkata] PHP Fatal error:  Call to a member function except() on null in /home/ennerzyy/public_html/bueno/app/Http/Controllers/CheckoutController.php on line 55
+[06-Nov-2016 16:56:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ']' in /home/ennerzyy/public_html/bueno/app/Bueno/Authenticate/AuthenticateUser.php on line 87
+[06-Nov-2016 16:57:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ']' in /home/ennerzyy/public_html/bueno/app/Bueno/Authenticate/AuthenticateUser.php on line 87
+[06-Nov-2016 17:43:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/ennerzyy/public_html/bueno/app/Bueno/Authenticate/AuthenticateUser.php on line 110
+[06-Nov-2016 17:43:58 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/ennerzyy/public_html/bueno/app/Bueno/Authenticate/AuthenticateUser.php on line 106
+[06-Nov-2016 17:49:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/ennerzyy/public_html/bueno/app/Bueno/Authenticate/AuthenticateUser.php on line 104
+[06-Nov-2016 18:24:57 Asia/Kolkata] PHP Fatal error:  Call to undefined method Bueno\Authenticate\AuthenticateUser::getUserByEmail() in /home/ennerzyy/public_html/bueno/app/Bueno/Authenticate/AuthenticateUser.php on line 74
+[08-Dec-2016 13:44:44 Asia/Kolkata] PHP Fatal error:  Call to a member function firstKitchen() on null in /home/ennerzyy/public_html/bueno/app/Bueno/Repositories/DbKitchenRepository.php on line 138
+[09-Dec-2016 08:53:19 UTC] PHP Fatal error:  Class 'ComposerAutoloaderInite6a6ce3ea1610344fe15939bbb8c9201' not found in /home/ennerzyy/public_html/bueno/vendor/autoload.php on line 7
+[09-Dec-2016 08:53:23 UTC] PHP Fatal error:  Class 'ComposerAutoloaderInite6a6ce3ea1610344fe15939bbb8c9201' not found in /home/ennerzyy/public_html/bueno/vendor/autoload.php on line 7
+[09-Dec-2016 08:53:36 UTC] PHP Fatal error:  Class 'ComposerAutoloaderInite6a6ce3ea1610344fe15939bbb8c9201' not found in /home/ennerzyy/public_html/bueno/vendor/autoload.php on line 7
+[11-Dec-2016 15:37:40 UTC] PHP Fatal error:  Class 'ComposerAutoloaderInite6a6ce3ea1610344fe15939bbb8c9201' not found in /home/ennerzyy/public_html/bueno/vendor/autoload.php on line 7
+[11-Dec-2016 15:37:44 UTC] PHP Fatal error:  Class 'ComposerAutoloaderInite6a6ce3ea1610344fe15939bbb8c9201' not found in /home/ennerzyy/public_html/bueno/vendor/autoload.php on line 7
+[11-Dec-2016 21:09:26 Asia/Kolkata] PHP Fatal error:  Class 'Firebase\JWT\JWT' not found in /home/ennerzyy/public_html/bueno/app/Http/Controllers/Admin/PageController.php on line 34
+[11-Dec-2016 21:11:15 Asia/Kolkata] PHP Fatal error:  Class 'Firebase\JWT\JWT' not found in /home/ennerzyy/public_html/bueno/app/Http/Controllers/Admin/PageController.php on line 34
+[11-Dec-2016 15:44:11 UTC] PHP Fatal error:  Class 'ComposerAutoloaderInit77ce5b5161cfbc6187f75c761e2f168c' not found in /home/ennerzyy/public_html/bueno/vendor/autoload.php on line 7
+[11-Dec-2016 15:51:11 UTC] PHP Fatal error:  Class 'Composer\Autoload\ComposerStaticInite6a6ce3ea1610344fe15939bbb8c9201' not found in /home/ennerzyy/public_html/bueno/vendor/composer/autoload_real.php on line 34
+[11-Dec-2016 15:51:16 UTC] PHP Fatal error:  Class 'Composer\Autoload\ComposerStaticInite6a6ce3ea1610344fe15939bbb8c9201' not found in /home/ennerzyy/public_html/bueno/vendor/composer/autoload_real.php on line 34
+[11-Dec-2016 15:51:53 UTC] PHP Fatal error:  Class 'Composer\Autoload\ComposerStaticInite6a6ce3ea1610344fe15939bbb8c9201' not found in /home/ennerzyy/public_html/bueno/vendor/composer/autoload_real.php on line 34
+[11-Dec-2016 15:52:15 UTC] PHP Fatal error:  Class 'Composer\Autoload\ComposerStaticInite6a6ce3ea1610344fe15939bbb8c9201' not found in /home/ennerzyy/public_html/bueno/vendor/composer/autoload_real.php on line 34
+[11-Dec-2016 15:52:32 UTC] PHP Fatal error:  Class 'Composer\Autoload\ComposerStaticInite6a6ce3ea1610344fe15939bbb8c9201' not found in /home/ennerzyy/public_html/bueno/vendor/composer/autoload_real.php on line 34
+[11-Dec-2016 21:22:57 Asia/Kolkata] PHP Fatal error:  Class 'Firebase\JWT\JWT' not found in /home/ennerzyy/public_html/bueno/app/Http/Controllers/Admin/PageController.php on line 34
+[11-Dec-2016 21:26:02 Asia/Kolkata] PHP Fatal error:  Class 'Firebase\JWT\JWT' not found in /home/ennerzyy/public_html/bueno/app/Http/Controllers/Admin/PageController.php on line 34
+[11-Dec-2016 21:26:03 Asia/Kolkata] PHP Fatal error:  Class 'Firebase\JWT\JWT' not found in /home/ennerzyy/public_html/bueno/app/Http/Controllers/Admin/PageController.php on line 34
+[11-Dec-2016 21:26:04 Asia/Kolkata] PHP Fatal error:  Class 'Firebase\JWT\JWT' not found in /home/ennerzyy/public_html/bueno/app/Http/Controllers/Admin/PageController.php on line 34
+[11-Dec-2016 21:27:26 Asia/Kolkata] PHP Fatal error:  Class 'Firebase\JWT\JWT' not found in /home/ennerzyy/public_html/bueno/app/Http/Controllers/Admin/PageController.php on line 34
+[11-Dec-2016 21:28:48 Asia/Kolkata] PHP Fatal error:  Class 'Firebase\JWT\JWT' not found in /home/ennerzyy/public_html/bueno/app/Http/Controllers/Admin/PageController.php on line 34
+[11-Dec-2016 21:28:51 Asia/Kolkata] PHP Fatal error:  Class 'Firebase\JWT\JWT' not found in /home/ennerzyy/public_html/bueno/app/Http/Controllers/Admin/PageController.php on line 34
+[11-Dec-2016 21:28:55 Asia/Kolkata] PHP Fatal error:  Class 'Firebase\JWT\JWT' not found in /home/ennerzyy/public_html/bueno/app/Http/Controllers/Admin/PageController.php on line 34
+[11-Dec-2016 21:29:19 Asia/Kolkata] PHP Fatal error:  Class 'Firebase\JWT\JWT' not found in /home/ennerzyy/public_html/bueno/app/Http/Controllers/Admin/PageController.php on line 34
+[11-Dec-2016 21:29:20 Asia/Kolkata] PHP Fatal error:  Class 'Firebase\JWT\JWT' not found in /home/ennerzyy/public_html/bueno/app/Http/Controllers/Admin/PageController.php on line 34
+[11-Dec-2016 21:29:21 Asia/Kolkata] PHP Fatal error:  Class 'Firebase\JWT\JWT' not found in /home/ennerzyy/public_html/bueno/app/Http/Controllers/Admin/PageController.php on line 34
+[11-Dec-2016 21:30:12 Asia/Kolkata] PHP Fatal error:  Class 'Firebase\JWT\JWT' not found in /home/ennerzyy/public_html/bueno/app/Http/Controllers/Admin/PageController.php on line 34
+[11-Dec-2016 21:30:14 Asia/Kolkata] PHP Fatal error:  Class 'Firebase\JWT\JWT' not found in /home/ennerzyy/public_html/bueno/app/Http/Controllers/Admin/PageController.php on line 34
+[11-Dec-2016 21:30:15 Asia/Kolkata] PHP Fatal error:  Class 'Firebase\JWT\JWT' not found in /home/ennerzyy/public_html/bueno/app/Http/Controllers/Admin/PageController.php on line 34
+[11-Dec-2016 16:01:07 UTC] PHP Fatal error:  Class 'Composer\Autoload\ComposerStaticInite6a6ce3ea1610344fe15939bbb8c9201' not found in /home/ennerzyy/public_html/bueno/vendor/composer/autoload_real.php on line 34
+[11-Dec-2016 16:01:08 UTC] PHP Fatal error:  Class 'Composer\Autoload\ComposerStaticInite6a6ce3ea1610344fe15939bbb8c9201' not found in /home/ennerzyy/public_html/bueno/vendor/composer/autoload_real.php on line 34
+[11-Dec-2016 21:31:47 Asia/Kolkata] PHP Fatal error:  Class 'Firebase\JWT\JWT' not found in /home/ennerzyy/public_html/bueno/app/Http/Controllers/Admin/PageController.php on line 34
+[11-Dec-2016 21:31:50 Asia/Kolkata] PHP Fatal error:  Class 'Firebase\JWT\JWT' not found in /home/ennerzyy/public_html/bueno/app/Http/Controllers/Admin/PageController.php on line 34
+[11-Dec-2016 16:06:20 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/ennerzyy/public_html/bueno/vendor/composer/autoload_static.php on line 5
+[11-Dec-2016 16:06:22 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/ennerzyy/public_html/bueno/vendor/composer/autoload_static.php on line 5
+[11-Dec-2016 16:06:23 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/ennerzyy/public_html/bueno/vendor/composer/autoload_static.php on line 5
+[11-Dec-2016 21:56:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE) in /home/ennerzyy/public_html/bueno/vendor/nitsmax/ristaapi/src/ApiClient.php on line 155
+[11-Dec-2016 22:57:19 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '|' in /home/ennerzyy/public_html/bueno/app/Http/Controllers/Admin/PageController.php on line 29
+[11-Dec-2016 22:57:40 Asia/Kolkata] PHP Fatal error:  Class 'App\Http\Controllers\Admin\CustomerApi' not found in /home/ennerzyy/public_html/bueno/app/Http/Controllers/Admin/PageController.php on line 45
+[12-Dec-2016 11:49:20 Asia/Kolkata] PHP Fatal error:  Call to a member function firstKitchen() on null in /home/ennerzyy/public_html/bueno/app/Bueno/Repositories/DbKitchenRepository.php on line 142
+[12-Dec-2016 13:02:09 Asia/Kolkata] PHP Fatal error:  Call to a member function firstKitchen() on null in /home/ennerzyy/public_html/bueno/app/Bueno/Repositories/DbKitchenRepository.php on line 142
+[12-Dec-2016 13:05:23 Asia/Kolkata] PHP Fatal error:  Call to a member function firstKitchen() on null in /home/ennerzyy/public_html/bueno/app/Bueno/Repositories/DbKitchenRepository.php on line 142
+[12-Dec-2016 13:06:56 Asia/Kolkata] PHP Fatal error:  Call to a member function firstKitchen() on null in /home/ennerzyy/public_html/bueno/app/Bueno/Repositories/DbKitchenRepository.php on line 142
+[12-Dec-2016 13:09:01 Asia/Kolkata] PHP Fatal error:  Call to a member function firstKitchen() on null in /home/ennerzyy/public_html/bueno/app/Bueno/Repositories/DbKitchenRepository.php on line 142
+[14-Dec-2016 16:43:39 Asia/Kolkata] PHP Fatal error:  Call to undefined method Bueno\Repositories\DbSettingRepository::updateInvoiceTaxes() in /home/ennerzyy/public_html/bueno/app/Bueno/Repositories/DbSettingRepository.php on line 29
+[17-Dec-2016 12:28:54 Asia/Kolkata] PHP Fatal error:  Call to a member function firstKitchen() on null in /home/ennerzyy/public_html/bueno/app/Bueno/Repositories/DbKitchenRepository.php on line 142
+[21-Dec-2016 00:34:21 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/ennerzyy/public_html/bueno/app/Bueno/Services/RistaAPI.php on line 205
+[22-Dec-2016 14:15:13 Asia/Kolkata] PHP Fatal error:  Cannot redeclare class App\Listeners\SendOrderCreateRequestToJooleh in /home/ennerzyy/public_html/bueno/app/Listeners/SendOrderCreateRequestToRista.php on line 13
+[03-Jan-2017 16:49:29 Asia/Kolkata] PHP Fatal error:  Call to undefined method Bueno\Repositories\DbCommonRepository::isKitchenOpen() in /home/ennerzyy/public_html/bueno/app/Http/Controllers/OldApi/ApiController.php on line 225

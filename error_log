@@ -1,0 +1,2 @@
+[29-Nov-2016 15:21:28 Asia/Kolkata] PHP Fatal error:  Class 'AddInvoiceTaxFieldsToKitchenTable' not found in /home/ennerzyy/public_html/bueno/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php on line 324
+[29-Nov-2016 15:22:31 Asia/Kolkata] PHP Fatal error:  Class 'AddInvoiceTaxFieldsToKitchenTable' not found in /home/ennerzyy/public_html/bueno/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php on line 324
