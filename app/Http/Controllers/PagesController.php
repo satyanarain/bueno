@@ -1,6 +1,7 @@
 <?php
 namespace App\Http\Controllers;
 
+use App\Models\Area;
 use Bueno\Exceptions\ModelNotFoundException;
 use Bueno\Repositories\DbCouponRepository;
 use Bueno\Repositories\DbUserRepository;
@@ -432,7 +433,7 @@ class PagesController extends Controller {
   {
     $inputs = request()->all();
 
-    $areas = $this->commonRepo->getAreas($inputs['q']);
+    $areas = Area::all();//$this->commonRepo->getAreas($inputs['q']);
 
     return response()->json($areas);
   }
