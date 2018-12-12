@@ -1,4 +1,4 @@
-<!--<div id="localityModal" class="black_modal modal fade locality_select_modal"  data-backdrop="static" data-keyboard="false" role="dialog">
+<div id="localityModal" class="black_modal modal fade locality_select_modal"  data-backdrop="static" data-keyboard="false" role="dialog">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header text-center">
@@ -18,7 +18,7 @@
                     </select>
                 </label>
                 </form>
-            </div>  modal-body ends 
-        </div>  modal-content ends 
-    </div>  modal-dialog ends 
-</div>  modal ends -->
+            </div> 
+        </div> 
+    </div>
+</div>  
