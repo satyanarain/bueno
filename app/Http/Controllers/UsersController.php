@@ -406,8 +406,6 @@ class UsersController extends Controller
 
     $area = $this->userRepo->setUserArea($inputs);
 
-    //return session('area_id');
-
     return redirect()->back();
   }
 
