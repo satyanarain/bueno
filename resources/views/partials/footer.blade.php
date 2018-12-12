@@ -67,7 +67,7 @@
 
 @if( request()->path() != 'opt-out-sms' )
 @include('partials.intercom')
-@include('modals/locality_modal')
+
 @include('modals/master_switch_modal')
 @include('modals/android_detect_modal')
 @include('modals/ios_detect_modal')
