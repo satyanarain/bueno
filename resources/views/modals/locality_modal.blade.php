@@ -1,13 +1,13 @@
-<div id="localityModal" class="black_modal modal fade locality_select_modal"  data-backdrop="static" data-keyboard="false" role="dialog">
+<!--<div id="localityModal" class="black_modal modal fade locality_select_modal"  data-backdrop="static" data-keyboard="false" role="dialog">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header text-center">
                 <div class="header_icon icon_circle">
                     <i class="ion-alert"></i>
-                </div> <!-- header_icon ends -->
+                </div>  header_icon ends 
                 <h4 class="modal-title">You need to select your locality<br/> to be able to browse the site.</h4>
                 <hr class="white no-marginbottom" />
-            </div> <!-- modal-header ends -->
+            </div>  modal-header ends 
             <div class="modal-body text-center">
                 <form action="{{ route('users.area.post') }}" method="POST">
                     {{ csrf_field() }}
@@ -18,7 +18,7 @@
                     </select>
                 </label>
                 </form>
-            </div> <!-- modal-body ends -->
-        </div> <!-- modal-content ends -->
-    </div> <!-- modal-dialog ends -->
-</div> <!-- modal ends -->
+            </div>  modal-body ends 
+        </div>  modal-content ends 
+    </div>  modal-dialog ends 
+</div>  modal ends -->

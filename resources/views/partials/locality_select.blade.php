@@ -1,4 +1,4 @@
-<section class="title_sec gray-dim-bg">
+<!--<section class="title_sec gray-dim-bg">
     <div class="container more">
         <div class="row">
             <div class="col-xs-12">
@@ -18,13 +18,13 @@
                                             @if(session()->has('area_id') && session('area_id') == $area->id)<option value="{{ $area->id }}" selected>{{ $area->name }}</option>@endif
                                         @endforeach
                                     </select>
-                                </label> <!-- bueno_select ends -->
-                            </div> <!-- col-xs-12 ends -->
-                        </div> <!-- bueno_form_group ends -->
-                    </form> <!-- locality_form ends -->
-                </div> <!-- locality ends -->
+                                </label>  bueno_select ends 
+                            </div>  col-xs-12 ends 
+                        </div>  bueno_form_group ends 
+                    </form>  locality_form ends 
+                </div>  locality ends 
 
-            </div> <!-- col-xs-12 ends -->
-        </div> <!-- row ends -->
-    </div> <!-- container ends -->
-</section> <!-- title_sec ends -->
+            </div>  col-xs-12 ends 
+        </div>  row ends 
+    </div>  container ends 
+</section>  title_sec ends -->
