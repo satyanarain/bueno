@@ -1,4 +1,5 @@
-<?php namespace Bueno\Repositories;
+<?php 
+namespace Bueno\Repositories;
 
 use App\Models\BaseModel;
 use App\Models\Kitchen;

@@ -1,4 +1,5 @@
-<?php namespace Bueno\Repositories;
+<?php 
+namespace Bueno\Repositories;
 
 use Segment;
 use Bueno\Loggers\LoyalityLogger;
