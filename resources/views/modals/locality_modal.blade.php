@@ -10,7 +10,7 @@
             </div>
             <div class="modal-body text-center">
                 <form action="{{ route('users.area.post') }}" method="POST">
-                    {{ csrf_field() }}
+                    <input type="text" name="_token" value="{{ csrf_token() }}">
                 <h4 class="no-margintop marginbottom-md">Please select your locality for delivery in Gurgaon</h4>
                 <label for="" class="bueno_select no_caret">
                     <select name="area_id" id="" class="full_width locality_select2">

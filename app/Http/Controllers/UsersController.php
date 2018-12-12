@@ -399,7 +399,7 @@ class UsersController extends Controller
    */
   public function postArea()
   {
-    //die('fdg');
+    return request()->_token;
     $inputs = request()->all();
 
     //return response()->json($inputs);
