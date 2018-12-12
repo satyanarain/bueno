@@ -19,13 +19,13 @@
                                             @if(session()->has('area_id') && session('area_id') == $area->id)<option value="{{ $area->id }}" selected>{{ $area->name }}</option>@endif
                                         @endforeach
                                     </select>
-                                </label> <!-- bueno_select ends -->
-                            </div> <!-- col-xs-12 ends -->
-                        </div> <!-- bueno_form_group ends -->
-                    </form> <!-- locality_form ends -->
-                </div> <!-- locality ends -->
+                                </label>  
+                            </div>  
+                        </div> 
+                    </form> 
+                </div> 
 
-            </div> <!-- col-xs-12 ends -->
-        </div> <!-- row ends -->
-    </div> <!-- container ends -->
-</section> <!-- title_sec ends -->
+            </div>  
+        </div>
+    </div>
+</section>
