@@ -15,6 +15,8 @@ use Bueno\Services\VoiceOtpApi;
 use Bueno\Repositories\DbCommonRepository;
 use Bueno\Validations\CreateCaterLeadsValidator;
 use Bueno\Validations\ValidationException;
+use Illuminate\Http\Request;
+//use App\Http\Controller\Controller;
 
 class PagesController extends Controller {
 
@@ -56,8 +58,13 @@ class PagesController extends Controller {
    *
    * @return string
    */
-  public function index()
+  public function index(Request $request)
   {
+    //echo csrf_token();
+    //return;
+    session(['area_id' => 119]);
+
+    //echo $value = $request->session()->get('area_id');die;
 
     $seo = $this->commonRepo->getSeoBySlug('home');
 
@@ -101,7 +108,7 @@ class PagesController extends Controller {
     );
 
     $perPage = 9;
-
+    
     $items = $this->itemRepo->searchMealsAndCombos($area_id, $cuisine_ids, $availability_ids, $category_ids, $price_range, $type_id, $keyword, $sort_by, $perPage);
 
     $items = [
@@ -121,7 +128,7 @@ class PagesController extends Controller {
 
     $offers = $this->couponRepo->getCouponOffers();
 
-    return view('pages.index', compact('testimonials', 'banners', 'sliders', 'ad_text', 'filters', 'offers', 'area', 'items', 'filters', 'selected_filters'));
+    return view('pages.index', compact('testimonials', 'banners', 'sliders', 'ad_text', 'filters', 'offers','area_id', 'area', 'items', 'filters', 'selected_filters'));
   }
 
   /**

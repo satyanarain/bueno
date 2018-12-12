@@ -63,7 +63,7 @@
 		</div> <!-- container ends -->
 	</footer>
 	
-	<!-- jQuery -->
+  <!-- jQuery -->
   <script src="assets/js/jquery-2.1.4.min.js"></script>
 
   <!-- Bootstrap Core JavaScript -->
@@ -80,6 +80,13 @@
 
   <!-- Main (Custom) JS -->
   <script src="assets/js/main.js"></script>
+  <script type="text/javascript">
+   $.ajaxSetup({
+       headers: {
+           'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+       }
+   });
+</script>
 
 </body>
 </html>

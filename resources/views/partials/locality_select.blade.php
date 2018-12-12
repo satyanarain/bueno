@@ -5,6 +5,7 @@
                 <div class="col-xs-12 locality locality_xprs_menu">
                     <form action="{{ route('users.area.post') }}" method="POST" class="form-horizontal locality_form">
                         <div class="form-group bueno_form_group no-marginbottom">
+                          
                             @if(session()->has('area_id'))
                                 <label for="locality" class="col-xs-12 col-sm-6 col-md-5 control-label">Locality for delivery: <span class="locality_area_name">{{ $area->name }}</span> | <span>Minimum Order &#8377; <span class="locality_minimum_price">{{ $area->min_order_amount }}</span>/-</span></label>
                             @else

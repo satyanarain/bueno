@@ -399,9 +399,14 @@ class UsersController extends Controller
    */
   public function postArea()
   {
+    //die('fdg');
     $inputs = request()->all();
 
+    //return response()->json($inputs);
+
     $area = $this->userRepo->setUserArea($inputs);
+
+    //return session('area_id');
 
     return redirect()->back();
   }
