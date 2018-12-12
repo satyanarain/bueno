@@ -1085,9 +1085,9 @@ class DbUserRepository  {
 
   public function setUserArea($inputs)
   {
-    session(['area_id' => $inputs['area_id']]);
+    session(['area_id' => 10]);
 
-    return Area::find($inputs['area_id']);
+    return Area::find(10);
   }
 
   public function getUserOrders($user_id, $perPage)
