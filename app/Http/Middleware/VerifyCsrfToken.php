@@ -16,6 +16,7 @@ class VerifyCsrfToken extends BaseVerifier
         '/checkout/*',
         '/webapi/*',
         'api/*',
+        '/area'
     ];
 
   public function handle($request, Closure $next)
